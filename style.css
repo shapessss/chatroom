@@ -2,3 +2,9 @@ body {
     background-color: #000000;
     color: #ffffff;
 }
+
+div {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
