@@ -5,6 +5,7 @@ body {
 
 div {
     position: fixed;
-    top: -20px;
+    top: 0px;
     left: 0;
+    padding: 10px;
 }
