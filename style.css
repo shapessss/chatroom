@@ -6,7 +6,7 @@ body {
 
 div {
     position: fixed;
-    top: 50%;
+    top: 0;
     left: 50;
     width: 60%;
 }
