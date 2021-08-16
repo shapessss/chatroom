@@ -5,5 +5,5 @@ body {
     height: 100vh;
     overflow-y: hidden;
 
-    padding: 5px;
+    margin: 0 auto 0 auto;
 }
